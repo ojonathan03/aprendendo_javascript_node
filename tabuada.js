@@ -1,0 +1,15 @@
+
+var read = require("readline-sync")
+var n1 = read.questionInt('digite um numero: ')
+
+console.log(`${n1} * 0 = ${n1*0}`)
+console.log(`${n1} * 1 = ${n1*1}`)
+console.log(`${n1} * 2 = ${n1*2}`)
+console.log(`${n1} * 3 = ${n1*3}`)
+console.log(`${n1} * 4 = ${n1*4}`)
+console.log(`${n1} * 5 = ${n1*5}`)
+console.log(`${n1} * 6 = ${n1*6}`)
+console.log(`${n1} * 7 = ${n1*7}`)
+console.log(`${n1} * 8 = ${n1*8}`)
+console.log(`${n1} * 9 = ${n1*9}`)
+console.log(`${n1} * 10 = ${n1*10}`)
